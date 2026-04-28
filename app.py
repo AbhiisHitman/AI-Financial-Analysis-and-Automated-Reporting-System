@@ -10,8 +10,8 @@ from rich.panel import Panel
 import os
 
 # ✅ Replace with your keys
-GEMINI_KEY = "AIzaSyDRiIqef9EB9UsNoZrPRntMYDygLYHwM5M"
-ALPHA_KEY = "XE5S6PJDA2WKOAU9"
+GEMINI_KEY = ""
+ALPHA_KEY = ""
 
 # ✅ Configure Gemini
 genai.configure(api_key=GEMINI_KEY)
