@@ -37,7 +37,6 @@ CLI-based execution workflow
 
 Tech Stack:
 Python
-CrewAI
 LLM APIs (Gemini)
 Pandas
 Matplotlib
