@@ -1,0 +1,7 @@
+requests
+pandas
+matplotlib
+google-generativeai
+markdown
+pdfkit
+rich
